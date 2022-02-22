@@ -22,6 +22,6 @@ Demo: <a href="https://inkmakhova.github.io/device-ru/">https://inkmakhova.githu
 2. Верстка выполнена с учетом доступности и концепции pixel perfect;
 3. Кроссбраузерность: Chrome, Brave, Firefox, Safari;
 4. Раскладка сеточных элементов выполнена флексах и гридах;
-5. Для слайдера и взамодействия с формой обратной связи испозован JS;
+5. Для слайдера и взамодействия с формой обратной связи использован JS;
 
 Макет проекта в <a href="https://www.figma.com/file/UmtDAX4SCOMW6CiBO9VQai/HTML-1-%2F-%D0%94%D0%B5%D0%B2%D0%B0%D0%B9%D1%81-(30)?node-id=0%3A1">Figma</a>
