@@ -1,6 +1,6 @@
 # Device project is an online gadget store
 
-Demo: <a href="https://inkmakhova.github.io/device-ru/">https://inkmakhova.github.io/device-ru/</a>
+Demo: <a href=" https://inkmakhova.github.io/device-en/"> https://inkmakhova.github.io/device-en/</a>
 
 Project description:
 The project consists of 2 pages (Main and Catalog).
