@@ -1,27 +1,27 @@
-# Проект «Девайс» - интернет-магазин гаджетов
+# Device project is an online gadget store
 
 Demo: <a href="https://inkmakhova.github.io/device-ru/">https://inkmakhova.github.io/device-ru/</a>
 
-Описание проекта:
-Проект состоит из 2х сверстанных страниц (главная и страница каталога).
+Project description:
+The project consists of 2 pages (Main and Catalog).
 
-Главная страница:
-1. В шапке проекта выпадающий элемент: меню каталога;
-2. Реализовано 2 слайдера: слайдер популярных товаров (хиты) и слайдер преимуществ компании;
-3. Карточки категорий товаров, у которых меняется состояние при наведении;
-4. Лейблы компаний-партнеров, у которых меняется состояние при наведении (окрашиваются);
-5. Попап - интерактивная карта;
-6. Попап - форма обратной связи;
+Main page:
+1. Drop-down element in the project header: catalog menu;
+2. 2 sliders: slider of popular products and slider of company advantages;
+3. Cards of product categories that change state on hover;
+4. Labels of partner companies whose state changes on hover (colored);
+5. Popup - interactive map;
+6. Popup - feedback form;
 
-Страница каталога (переход осуществляется по ссылке "Каталог" в меню главной страницы):
-1. Добавлены сложные элементы формы (фильтры и сортировка);
-2. Карточки товара, у которых меняется состояние при наведении (визуальные эффекты и появление кнопки);
+Catalog page (the transition is carried out by the link "Catalog" in the menu of the main page):
+1. Added complex form elements (filters and sorting);
+2. Product cards that change their state on hover (visual effects and the appearance of a button);
 
-Технические особенности:
-1. Стандарты вёрстки: HTML, CSS, прогрессивное улучшение;
-2. Верстка выполнена с учетом доступности и концепции pixel perfect;
-3. Кроссбраузерность: Chrome, Brave, Firefox, Safari;
-4. Раскладка сеточных элементов выполнена флексах и гридах;
-5. Для слайдера и взамодействия с формой обратной связи использован JS;
+Technical features:
+1. Layout standards: HTML, CSS, progressive enhancement;
+2. The layout is made taking into account the accessibility and the concept of pixel perfect;
+3. Cross-browser compatibility: Chrome, Brave, Firefox, Safari;
+4. The layout of grid elements is made in flex and grid;
+5. JS was used for the slider and interaction with the feedback form;
 
-Макет проекта в <a href="https://www.figma.com/file/UmtDAX4SCOMW6CiBO9VQai/HTML-1-%2F-%D0%94%D0%B5%D0%B2%D0%B0%D0%B9%D1%81-(30)?node-id=0%3A1">Figma</a>
+Project layout <a href="https://www.figma.com/file/UmtDAX4SCOMW6CiBO9VQai/HTML-1-%2F-%D0%94%D0%B5%D0%B2%D0%B0%D0%B9%D1%81-(30)?node-id=0%3A1">Figma</a>
